@@ -21,16 +21,23 @@ A fully functional desktop-based **Gym Management Application** built using Java
 - View, edit, delete all members & trainers
 - Assign roles (admin/trainer/member)
 - Monitor bookings & attendance
+  ![Screenshot (46)](https://github.com/user-attachments/assets/14904662-c0ca-4a18-86db-c3e74c1c8a37)
+
+
+
 
 ### 🧘 Member Dashboard
 - Book a class with a trainer
 - View attendance history
 - See upcoming sessions
+  ![Screenshot (35)](https://github.com/user-attachments/assets/feea3b3b-8830-40ec-8ce6-97a5d2773b04)
 
 ### 🏋️ Trainer Dashboard
 - Mark attendance
 - Start and end sessions
 - View assigned members
+![Screenshot (45)](https://github.com/user-attachments/assets/dcbe4d23-fc2a-4769-9490-9409edb7140a)
+
 
 ---
 
